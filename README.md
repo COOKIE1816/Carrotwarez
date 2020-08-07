@@ -13,3 +13,4 @@ Vypnutí animace is animation that play while cwr is shutting down.
 1.Play ShutdownanimationSound.mp4
 
 2.Play ShutdownanimationVideo.avi
+Cvičení
